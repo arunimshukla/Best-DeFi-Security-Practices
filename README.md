@@ -140,7 +140,7 @@ Compound Finance, an autonomous algorithmic marketplace to borrow and lend crypt
 
 - [Compound Finance](https://compound.finance/docs/security#formal-verification)
 
-MakerDAO, a lending protocol on the Ethereum blockchain, with its stablecoin DAI, holds a top-performing position with multiple security audits.
+MakerDAO, a lending protocol on the Ethereum blockchain, with its stablecoin DAI, holds a top-performing position with multiple security practices.
 
 - [MakerDAO](https://makerdao.com)
 

@@ -9,14 +9,15 @@ An ultimate list of security practices for DeFi protocols to ensure user safety.
 | Bug Bounty Programs           | [Inspect](#bug-bounty-program) 
 | Suspicious Activity Tracking  | [Inspect](#on-chain-suspicious-activity-tracking)
 | DeFi Risk Insurance           | [Inspect](#defi-risk-insurance)
-| Peer-to-peer Code Reviews     | [Inspect](#peer-to-peer-code-reviews)
+| Audit Contests                | [Inspect](#audit-contests)
 | Formal Verification           | [Inspect](#formal-verification)
 | Economic Security             | [Inspect](#economic-security)
+| Risk Score                    |[Inspect](#risk-score)
 | Lessons Learned               | [Inspect](#lessons-learned)
-| A Near-perfect Protocol       | [Inspect](#a-near-perfect-protocol)
+| Potenial Perfection           | [Inspect](#potential-perfection)
 | Contributing                  | [Inspect](#contributing)
 | Feedback                      | [Inspect](#feedback)
-| Connect with me               | [Inspect](#connect-with-me-on)
+| Connect With Me               | [Inspect](#connect-with-me-on)
 
 ## Smart Contract Audits (x2)
 
@@ -27,7 +28,11 @@ A smart contract audit is a detailed methodical examination of the code used to 
 - [Trail of Bits](https://www.trailofbits.com/contact)
 - [OpenZeppelin](https://www.openzeppelin.com/request)
 - [ConsenSys Diligence](https://consensys.net/diligence/contact/)
+- [ChainSecurity](https://chainsecurity.com)
+- [Runtime Verification](https://runtimeverification.com/smartcontract/)
 - [Halborn Security](https://halborn.com/contact/)
+- [Dedaub](https://dedaub.com)
+- [Hacken](https://hacken.io)
 - [Zellic](https://zellic.io)
 - [Quantstamp](https://quantstamp.com/audits)
 - [CertiK](https://www.certik.com/)
@@ -45,7 +50,7 @@ It is crucial to have an active bug bounty program as it stamps out the bugs mis
 - [HackerOne](https://hackerone.com)
 - [Bugcrowd](https://bugcrowd.com)
 
-## Options to consider:
+## On-chain Suspicious Activity Tracking:
 
 On-chain activity tracking bots are used to detect mission critical actions, or state changes (malicious transactions) in smart contracts, such as external function call, re-entrancy calls and alert teams through custom notifications to take necessary action on time.
 
@@ -53,6 +58,8 @@ On-chain activity tracking bots are used to detect mission critical actions, or 
 
 - [Forta Protocol](https://forta.org)
 - [Tenderly](https://tenderly.co/)
+- [MistTrack](https://misttrack.io)
+- [EagleEye](https://eagleeye.beosin.com/ProjectSearch)
 
 ## DeFi Risk Insurance
 
@@ -66,14 +73,13 @@ DeFi insurance is the solution to crypto's hacks & exploits problems.
 - [Bridge Mutual](https://bridgemutual.io/)
 - [Sherlock](https://www.sherlock.xyz/)
 
-## Peer-to-Peer Code Reviews
+## Audit Contests
 
-Many eyes, makes a better audit. Peer-to-peer code reviews is an invaluable way to secure your smart contracts from potential threats. It ensures bugs overlooked by audit firms during a security audit gets reported.
+Many eyes, makes a better audit. More is better. Audits contests/peer code review is an invaluable way to secure your smart contracts from potential threats. It ensures bugs overlooked by audit firms during a security audit gets reported.
 
 ### Options to Consider:
 
 - [Code4rena](https://code4rena.com/)
-- Independent code reviews (freelance)
 
 ## Formal Verification
 
@@ -94,6 +100,14 @@ Maximum capital efficiency, reduced risk solution. Economic security is a soluti
 ### Options to Consider:
 
 - [Gauntlet Network](https://gauntlet.network/platform/)
+
+## Risk Score
+
+Evaluating your smart contracts across factors including technicals and non-technicals is a prominent security measure to treat obstacles in the progress of your smart contracts. Such inspections are convenient to boost investor confidence in your application.
+
+### Options to Consider:
+
+- [DeFiSafety](https://defisafety.com)
 
 ## Lessons Learned
 - It is imperative to follow multiple security practices in DeFi protocols to protect user-locked funds from hacks and exploits.
@@ -120,11 +134,15 @@ More than $2.5B have been lost to crypto hackers. A 695% increase from the previ
 
 It is important to note that nearly all the hacks occured were post-audit hacks. Hence, it is beneficial to have multiple security practices in place in order to eliminate security risks.
 
-## A Near-perfect Protocol.
+## Potential Perfection
 
 Compound Finance, an autonomous algorithmic marketplace to borrow and lend cryptocurrencies is a top-performer in DeFi security practices, having multiple security audits from leading auditing firms, bug bounty program, formal verification and an economic security audit.
 
-[Compound Finance](https://compound.finance/docs/security#formal-verification)
+- [Compound Finance](https://compound.finance/docs/security#formal-verification)
+
+MakerDAO, a lending protocol on the Ethereum blockchain, with its stablecoin DAI, holds a top-performing position with multiple security audits.
+
+- [MakerDAO](https://makerdao.com)
 
 ## Contributing
 Contributions are always welcome!
@@ -138,3 +156,8 @@ If you have any feedback, please reach out to me on Twitter.
 ## Connect with me on
 - [Twitter](https://twitter.com/arunim_shukla)
 - [LinkedIn](www.linkedin.com/in/arunim-shukla)
+
+## Credits:
+Thanks to the incredible people who helped frame this research.
+- [Razzor](https://twitter.com/razzor_tweet)
+

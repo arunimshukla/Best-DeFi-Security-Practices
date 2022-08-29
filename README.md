@@ -31,6 +31,7 @@ A smart contract audit is a detailed methodical examination of the code used to 
 - [ChainSecurity](https://chainsecurity.com)
 - [Runtime Verification](https://runtimeverification.com/smartcontract/)
 - [Halborn Security](https://halborn.com/contact/)
+- [Sherlock](https://sherlock.xyz)
 - [Dedaub](https://dedaub.com)
 - [Hacken](https://hacken.io)
 - [Zellic](https://zellic.io)
@@ -80,6 +81,7 @@ Many eyes, makes a better audit. More is better. Audits contests/peer code revie
 ### Options to Consider:
 
 - [Code4rena](https://code4rena.com/)
+- [Sherlock](https://sherlock.xyz)
 
 ## Formal Verification
 
@@ -144,6 +146,10 @@ MakerDAO, a lending protocol on the Ethereum blockchain, with its stablecoin DAI
 
 - [MakerDAO](https://makerdao.com)
 
+## Something to Remember:
+
+If you don’t make an investment in the security of your application, you have to pay one way or another.
+
 ## Contributing
 Contributions are always welcome!
 
@@ -157,7 +163,16 @@ If you have any feedback, please reach out to me on Twitter.
 - [Twitter](https://twitter.com/arunim_shukla)
 - [LinkedIn](www.linkedin.com/in/arunim-shukla)
 
+## Research Verified By:
+The legitimacy of this research has been verified by:
+
+- [Runtime Verification](https://twitter.com/rv_inc)
+- [Code4rena](https://twitter.com/code4rena)
+- [Sherlock](https://twitter.com/sherlockdefi)
+- [Bridge Mutual](https://twitter.com/Bridge_Mutual)
+- [SlowMist](https://twitter.com/SlowMist_Team)
+
 ## Credits:
 Thanks to the incredible people who helped frame this research.
 - [Razzor](https://twitter.com/razzor_tweet)
-
+- ehildenb#2510

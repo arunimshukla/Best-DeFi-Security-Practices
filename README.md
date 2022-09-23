@@ -163,16 +163,19 @@ If you have any feedback, please reach out to me on Twitter.
 - [Twitter](https://twitter.com/arunim_shukla)
 - [LinkedIn](www.linkedin.com/in/arunim-shukla)
 
-## Research Verified By:
-The legitimacy of this research has been verified by:
+## Verified By:
+The legitimacy of this study has been verified by:
 
 - [Runtime Verification](https://twitter.com/rv_inc)
 - [Code4rena](https://twitter.com/code4rena)
 - [Sherlock](https://twitter.com/sherlockdefi)
 - [Bridge Mutual](https://twitter.com/Bridge_Mutual)
 - [SlowMist](https://twitter.com/SlowMist_Team)
+- [Nexus Mutual](https://twitter.com/NexusMutual)
+- [DeFiSafety](https://twitter.com/DefiSafety)
+- [Tenderly](https://twitter.com/TenderlyApp)
 
 ## Credits:
-Thanks to the incredible people who helped frame this research.
+Thanks to the incredible people who helped frame this study.
 - [Razzor](https://twitter.com/razzor_tweet)
 - ehildenb#2510

@@ -102,6 +102,7 @@ Maximum capital efficiency, reduced risk solution. Economic security is a soluti
 ### Options to Consider:
 
 - [Gauntlet Network](https://gauntlet.network/platform/)
+- [Risk DAO](https://riskdao.org)
 
 ## Risk Score
 

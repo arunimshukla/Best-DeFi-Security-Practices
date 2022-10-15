@@ -5,6 +5,7 @@ An ultimate list of security practices for DeFi protocols to ensure user safety.
 
 | Categorisation     | Link |
 | -------------------------- | --------
+| Threat Modeling               | [Inspect](#threat-modeling)  
 | Smart Contract Audits         | [Inspect](#smart-contract-audits-x2)         
 | Bug Bounty Programs           | [Inspect](#bug-bounty-program) 
 | Suspicious Activity Tracking  | [Inspect](#on-chain-suspicious-activity-tracking)
@@ -19,24 +20,33 @@ An ultimate list of security practices for DeFi protocols to ensure user safety.
 | Feedback                      | [Inspect](#feedback)
 | Connect With Me               | [Inspect](#connect-with-me-on)
 
+## Threat Modeling
+
+Threat modeling goal is to identify, communicate, and understand threats and mitigations within the context of protecting something of value. Activity usually carried out at an early stage of the project to detect potential vulnerabilities and prevent them before they arise. The process involves specialists from various areas to have the broadest possible perspective. It is based on evil brainstorming over any component of the project or its entire architecture at a high level of abstraction.
+
+## Options to consider:
+
+- [Composable Security](https://composable-security.com/)
+
 ## Smart Contract Audits (x2)
 
 A smart contract audit is a detailed methodical examination of the code used to interact with the blockchain. Smart contract security audits are essential to eliminating security vulnerabilities that could have arisen during the development process and could cause potential exploits, putting user funds at risk. Regular security audits are essential to eradicate vulnerabilities during the product life cycle. A security audit must be performed post-development and before the main net deployment of a new version of the smart contract. Ex- V1, V2 and V3.
 
 ## Options to consider:
 
-- [Trail of Bits](https://www.trailofbits.com/contact)
-- [OpenZeppelin](https://www.openzeppelin.com/request)
-- [ConsenSys Diligence](https://consensys.net/diligence/contact/)
+- [CertiK](https://www.certik.com/)
 - [ChainSecurity](https://chainsecurity.com)
-- [Runtime Verification](https://runtimeverification.com/smartcontract/)
-- [Halborn Security](https://halborn.com/contact/)
-- [Sherlock](https://sherlock.xyz)
+- [Composable Security](https://composable-security.com/)
+- [ConsenSys Diligence](https://consensys.net/diligence/contact/)
 - [Dedaub](https://dedaub.com)
 - [Hacken](https://hacken.io)
-- [Zellic](https://zellic.io)
+- [Halborn Security](https://halborn.com/contact/)
+- [OpenZeppelin](https://www.openzeppelin.com/request)
 - [Quantstamp](https://quantstamp.com/audits)
-- [CertiK](https://www.certik.com/)
+- [Runtime Verification](https://runtimeverification.com/smartcontract/)
+- [Sherlock](https://sherlock.xyz)
+- [Trail of Bits](https://www.trailofbits.com/contact)
+- [Zellic](https://zellic.io)
 
 ## Bug Bounty Program
 
@@ -46,10 +56,10 @@ It is crucial to have an active bug bounty program as it stamps out the bugs mis
 
 ## Options to consider:
 
-- [Immunefi](https://immunefi.com)
+- [Bugcrowd](https://bugcrowd.com)
 - [HackenProof](https://hackenproof.com)
 - [HackerOne](https://hackerone.com)
-- [Bugcrowd](https://bugcrowd.com)
+- [Immunefi](https://immunefi.com)
 
 ## On-chain Suspicious Activity Tracking:
 
@@ -57,10 +67,10 @@ On-chain activity tracking bots are used to detect mission critical actions, or 
 
 ### Options to Consider:
 
-- [Forta Protocol](https://forta.org)
-- [Tenderly](https://tenderly.co/)
-- [MistTrack](https://misttrack.io)
 - [EagleEye](https://eagleeye.beosin.com/ProjectSearch)
+- [Forta Protocol](https://forta.org)
+- [MistTrack](https://misttrack.io)
+- [Tenderly](https://tenderly.co/)
 
 ## DeFi Risk Insurance
 
@@ -70,8 +80,8 @@ DeFi insurance is the solution to crypto's hacks & exploits problems.
 
 ### Options to Consider:
 
-- [Nexus Mutual](https://nexusmutual.io/)
 - [Bridge Mutual](https://bridgemutual.io/)
+- [Nexus Mutual](https://nexusmutual.io/)
 - [Sherlock](https://www.sherlock.xyz/)
 
 ## Audit Contests
@@ -91,8 +101,8 @@ It is different from a security audit as it focuses on the mathematical logic of
 
 ### Options to Consider:
 
-- [Runtime Verification](https://runtimeverification.com/)
 - [Certora](https://www.certora.com/)
+- [Runtime Verification](https://runtimeverification.com/)
 - [Trail of Bits](https://www.trailofbits.com/contact)
 
 ## Economic Security
@@ -166,8 +176,8 @@ If you have any feedback, please reach out to me on Twitter.
 ## Verified By:
 The legitimacy of this study has been verified by:
 
-- [Runtime Verification](https://twitter.com/rv_inc)
 - [Code4rena](https://twitter.com/code4rena)
+- [Runtime Verification](https://twitter.com/rv_inc)
 - [Sherlock](https://twitter.com/sherlockdefi)
 - [Bridge Mutual](https://twitter.com/Bridge_Mutual)
 - [SlowMist](https://twitter.com/SlowMist_Team)

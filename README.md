@@ -60,6 +60,8 @@ It is crucial to have an active bug bounty program as it stamps out the bugs mis
 - [HackenProof](https://hackenproof.com)
 - [HackerOne](https://hackerone.com)
 - [Immunefi](https://immunefi.com)
+- [Remedy by Hexens](https://r.xyz)
+- [Code4rena Blue](https://code4rena.com)
 
 ## On-chain Suspicious Activity Tracking:
 

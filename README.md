@@ -96,6 +96,8 @@ Many eyes, make a better audit. More is better. Audits contests/peer code review
 - [Sherlock](https://sherlock.xyz)
 - [CodeHawks](https://codehawks.com)
 - [Hats.finance](https://hats.finance)
+- [Cantina](https://cantina.xyz/)
+- [Immunefi Audit Competitions](https://immunefi.com/audit-competitions/)
 
 ## Formal Verification
 
